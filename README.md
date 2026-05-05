@@ -22,3 +22,5 @@ series *Chiikawa*. Built as my final project for SI 539: Web Design at
 the University of Michigan School of Information.
 
 🌐 [Live Site](https://alexisxsc.github.io/539_final_project_w26/index.html) · 💻 [Source Code](https://github.com/alexisxsc/539_final_project_w26)
+
+---
