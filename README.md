@@ -1,4 +1,4 @@
-## Hi there 👋 Here are my web design projects.
+## Hi there 👋
 
 I'm Alexis, a Master of Science in Information student at the University of 
 Michigan on the UX Research and Design track. Below are my web design projects.
